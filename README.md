@@ -1,9 +1,6 @@
 # Quantium-Virtual-Internship
 Quantum provides this program.
 
-## [Certificate of Completion][https://drive.google.com/file/d/1idjB5rTBpZ7LMYd4x59Bt7_Ns7OQ7G4h/view?usp=sharing] 
-![image](https://user-images.githubusercontent.com/52568892/97493639-46654300-1933-11eb-85d6-b2a93f0ca064.png)
-
 ## Who is Quantium?
 
 Quantium is leading data science and AI Firm, founded in Australia in 2002 and offers a 17-year track record of innovation in data science.
